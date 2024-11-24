@@ -35,7 +35,9 @@ No custom INI, just the DATABASE connect string.
 
 ### MySQL
 `uuid` is the PrinicalID from UserAccounts
+
 `prem` is a int of premium rank like 1 for prem, 2 for prem+
+
 `expire` is when the user's prem/prem+ expires.
 
 
