@@ -1,0 +1,161 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "D:\\OpenSim\\opensim\\OpenSim\\Data\\MySQL\\OpenSim.Data.MySQL.csproj",
+      "D:\\OpenSim\\opensim\\OpenSim\\Data\\OpenSim.Data.csproj",
+      "D:\\OpenSim\\opensim\\OpenSim\\Framework\\OpenSim.Framework.csproj",
+      "D:\\OpenSim\\opensim\\OpenSim\\Region\\Application\\OpenSim.csproj",
+      "D:\\OpenSim\\opensim\\OpenSim\\Region\\Framework\\OpenSim.Region.Framework.csproj",
+      "D:\\OpenSim\\opensim\\OpenSim\\Server\\Base\\OpenSim.Server.Base.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Chris\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\OpenSim\\CanadianGridAddons\\AbuseReports\\AbuseReports.csproj",
+      "projectName": "AbuseReports",
+      "projectPath": "D:\\OpenSim\\CanadianGridAddons\\AbuseReports\\AbuseReports.csproj",
+      "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
+      "outputPath": "D:\\OpenSim\\CanadianGridAddons\\AbuseReports\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\OpenSim\\opensim\\OpenSim\\Data\\MySQL\\OpenSim.Data.MySQL.csproj": {
+              "projectPath": "D:\\OpenSim\\opensim\\OpenSim\\Data\\MySQL\\OpenSim.Data.MySQL.csproj"
+            },
+            "D:\\OpenSim\\opensim\\OpenSim\\Data\\OpenSim.Data.csproj": {
+              "projectPath": "D:\\OpenSim\\opensim\\OpenSim\\Data\\OpenSim.Data.csproj"
+            },
+            "D:\\OpenSim\\opensim\\OpenSim\\Framework\\OpenSim.Framework.csproj": {
+              "projectPath": "D:\\OpenSim\\opensim\\OpenSim\\Framework\\OpenSim.Framework.csproj"
+            },
+            "D:\\OpenSim\\opensim\\OpenSim\\Region\\Application\\OpenSim.csproj": {
+              "projectPath": "D:\\OpenSim\\opensim\\OpenSim\\Region\\Application\\OpenSim.csproj"
+            },
+            "D:\\OpenSim\\opensim\\OpenSim\\Region\\Framework\\OpenSim.Region.Framework.csproj": {
+              "projectPath": "D:\\OpenSim\\opensim\\OpenSim\\Region\\Framework\\OpenSim.Region.Framework.csproj"
+            },
+            "D:\\OpenSim\\opensim\\OpenSim\\Server\\Base\\OpenSim.Server.Base.csproj": {
+              "projectPath": "D:\\OpenSim\\opensim\\OpenSim\\Server\\Base\\OpenSim.Server.Base.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\OpenSim\\opensim\\OpenSim\\Data\\MySQL\\OpenSim.Data.MySQL.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\OpenSim\\opensim\\OpenSim\\Data\\MySQL\\OpenSim.Data.MySQL.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\OpenSim\\opensim\\OpenSim\\Data\\OpenSim.Data.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\OpenSim\\opensim\\OpenSim\\Data\\OpenSim.Data.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\OpenSim\\opensim\\OpenSim\\Region\\Application\\OpenSim.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\OpenSim\\opensim\\OpenSim\\Region\\Application\\OpenSim.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\OpenSim\\opensim\\OpenSim\\Server\\Base\\OpenSim.Server.Base.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\OpenSim\\opensim\\OpenSim\\Server\\Base\\OpenSim.Server.Base.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\OpenSim\\opensim\\OpenSim\\Region\\Framework\\OpenSim.Region.Framework.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\OpenSim\\opensim\\OpenSim\\Region\\Framework\\OpenSim.Region.Framework.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\OpenSim\\opensim\\OpenSim\\Framework\\OpenSim.Framework.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\OpenSim\\opensim\\OpenSim\\Framework\\OpenSim.Framework.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
