@@ -31,8 +31,10 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
-[Bb]in/
-[Oo]bj/
+AbuseReports/[Bb]in/
+Premium/[Bb]in/
+AbuseReports/[Oo]bj/
+Premium/[Oo]bj/
 [Ll]og/
 [Ll]ogs/
 
